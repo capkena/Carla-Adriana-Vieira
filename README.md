@@ -17,19 +17,22 @@ Construindo uma nova etapa profissional por meio da programação, do desenvolvi
 ```javascript
 const carla = {
   formacao: "Engenharia da Computação",
-  experiencia: "Volkswagen / MAN Latin America",
-  atuacao: [
-    "Fornecedores e casos críticos",
-    "Peças, acessórios e logística",
-    "Rotinas administrativas e industriais"
+  experiencia: "13 anos na indústria automotiva",
+  especialidades: [
+    "Gestão de fornecedores e demandas críticas",
+    "Organização de processos e análise de informações",
+    "Integração entre áreas administrativas e técnicas"
   ],
-  aprendendo: ["C", "Java", "HTML", "CSS", "JavaScript", "Git e GitHub"],
-  objetivo: "Unir experiência industrial, organização e tecnologia",
-  localizacao: "São Paulo, Brasil"
+  tecnologias: ["C", "Java", "HTML", "CSS", "JavaScript"],
+  proposito: "Transformar experiência em soluções por meio da tecnologia"
 };
 ```
 
-Sou profissional com experiência em ambiente industrial e estudante de **Engenharia da Computação**. Minha trajetória reúne organização, comunicação com fornecedores, acompanhamento de demandas críticas e interesse crescente por desenvolvimento de software.
+Sou estudante de **Engenharia da Computação** e profissional com **13 anos de experiência na Volkswagen / MAN Latin America**, atuando em um ambiente que exige organização, comunicação e agilidade na solução de problemas.
+
+Minha trajetória profissional inclui contato com fornecedores, acompanhamento de casos críticos, análise de demandas e interação com áreas como Qualidade e Engenharia. Essa experiência fortaleceu minha capacidade de trabalhar com responsabilidade, definir prioridades e buscar soluções mesmo em situações de pressão.
+
+Atualmente, estou ampliando minha atuação para a área de tecnologia por meio de projetos em **C, Java e desenvolvimento web**. Meu objetivo é unir o conhecimento adquirido na indústria à formação em Engenharia da Computação, criando soluções úteis, bem estruturadas e voltadas às necessidades reais de pessoas e negócios.
 
 ---
 
