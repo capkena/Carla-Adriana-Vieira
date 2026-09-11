@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1118"/>
+      <stop offset="0.55" stop-color="#111d26"/>
+      <stop offset="1" stop-color="#071318"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ff7a18"/>
+      <stop offset="1" stop-color="#27c2b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <path d="M0 248 C210 210 320 286 515 238 S830 193 1200 246" fill="none" stroke="#ff7a18" stroke-opacity=".28" stroke-width="2"/>
+  <path d="M0 264 C235 227 348 300 560 252 S905 216 1200 266" fill="none" stroke="#27c2b8" stroke-opacity=".22" stroke-width="2"/>
+  <g opacity=".34" stroke="#27c2b8" fill="none">
+    <path d="M880 52h100v40h78v46h82"/>
+    <path d="M914 176h64v-40h97v60h65"/>
+    <circle cx="880" cy="52" r="5" fill="#27c2b8"/><circle cx="1058" cy="138" r="5" fill="#27c2b8"/>
+    <circle cx="914" cy="176" r="5" fill="#27c2b8"/><circle cx="1075" cy="196" r="5" fill="#27c2b8"/>
+  </g>
+  <rect x="68" y="58" width="7" height="176" rx="4" fill="url(#accent)"/>
+  <text x="105" y="111" fill="#ff8a2a" font-size="20" font-family="Arial, sans-serif" font-weight="700" letter-spacing="5">PORTFÓLIO</text>
+  <text x="103" y="174" fill="#f6f8fa" font-size="48" font-family="Arial, sans-serif" font-weight="700">Carla Adriana Vieira</text>
+  <text x="105" y="218" fill="#b8c7d1" font-size="23" font-family="Arial, sans-serif">Engenharia da Computação · Tecnologia · Experiência industrial</text>
+  <g transform="translate(1018 75)">
+    <path d="M60 0 112 30v60l-52 30L8 90V30z" fill="none" stroke="#ff7a18" stroke-width="4"/>
+    <path d="M60 27 88 43v34L60 93 32 77V43z" fill="none" stroke="#27c2b8" stroke-width="4"/>
+    <circle cx="60" cy="60" r="8" fill="#ff7a18"/>
+  </g>
+</svg>
