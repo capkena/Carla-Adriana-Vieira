@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Banner do portfólio de Carla Adriana Vieira" />
+<img src="./assets/banner-cv.jpg" width="100%" alt="Nova identidade visual do portfólio de Carla Adriana Vieira" />
 
 <br/>
 
